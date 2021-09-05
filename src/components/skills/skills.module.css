@@ -1,0 +1,57 @@
+@value yellowColor from '../../common/color.css';
+
+.container {
+  height: 55rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.title {
+  margin-bottom: 5rem;
+  font-family: SpoqaHanSansNeo_Bold;
+  font-size: 4em;
+  color: yellowColor;
+  text-shadow: 1px 0 ivory, 0 1px ivory, 1px 0 ivory, 0 -1px ivory,
+    5px 5px wheat;
+  position: relative;
+  width: 100%;
+  margin-left: 15rem;
+}
+
+.text {
+  margin-left: 20rem;
+  margin-bottom: 1rem;
+  font-family: SpoqaHanSansNeo_Regular;
+  font-size: 1.5rem;
+}
+
+.icon {
+  width: 5rem;
+}
+
+.iconBox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.iconcontainer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.familiar,
+.studying {
+  margin-bottom: 5rem;
+  font-family: SpoqaHanSansNeo_Medium;
+  font-size: 3rem;
+}
+.skilltitle {
+  font-family: SpoqaHanSansNeo_Regular;
+  font-size: 2rem;
+  margin-left: 1rem;
+}

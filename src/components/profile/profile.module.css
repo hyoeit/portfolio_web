@@ -1,0 +1,44 @@
+@value blueColor from '../../common/color.css';
+
+.meImg {
+  width: 25em;
+  opacity: 1;
+}
+
+.container {
+  height: 55rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.mail,
+.phone,
+.tistory,
+.github {
+  margin-bottom: 1rem;
+  font-family: SpoqaHanSansNeo_Regular;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.koName {
+  font-size: 2rem;
+  font-family: SpoqaHanSansNeo_Bold;
+}
+
+.front {
+  width: fit-content;
+  margin-bottom: 2rem;
+  font-family: SpoqaHanSansNeo_Medium;
+  font-size: 1.5rem;
+  background-color: blueColor;
+  color: antiquewhite;
+}
+
+.icon {
+  margin-right: 1em;
+}

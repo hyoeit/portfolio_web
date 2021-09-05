@@ -4,3 +4,31 @@
     url("./styles/fonts/SpoqaHanSansNeo-Bold.woff") format("woff"),
     url("./styles/fonts/SpoqaHanSansNeo-Bold.woff2") format("woff2");
 }
+
+@font-face {
+  font-family: "SpoqaHanSansNeo_Light";
+  src: url("./styles/fonts/SpoqaHanSansNeo-Light.ttf") format("ttf"),
+    url("./styles/fonts/SpoqaHanSansNeo-Light.woff") format("woff"),
+    url("./styles/fonts/SpoqaHanSansNeo-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SpoqaHanSansNeo_Medium";
+  src: url("./styles/fonts/SpoqaHanSansNeo-Medium.ttf") format("ttf"),
+    url("./styles/fonts/SpoqaHanSansNeo-Medium.woff") format("woff"),
+    url("./styles/fonts/SpoqaHanSansNeo-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SpoqaHanSansNeo_Regular";
+  src: url("./styles/fonts/SpoqaHanSansNeo-Regular.ttf") format("ttf"),
+    url("./styles/fonts/SpoqaHanSansNeo-Regular.woff") format("woff"),
+    url("./styles/fonts/SpoqaHanSansNeo-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SpoqaHanSansNeo_Thin";
+  src: url("./styles/fonts/SpoqaHanSansNeo-Thin.ttf") format("ttf"),
+    url("./styles/fonts/SpoqaHanSansNeo-Thin.woff") format("woff"),
+    url("./styles/fonts/SpoqaHanSansNeo-Thin.woff2") format("woff2");
+}
