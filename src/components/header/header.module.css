@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 71em;
+  background-color: #07136d;
+}
+
+.text {
+  color: #f7c80af2;
+  font-size: 8em;
+  font-family: SpoqaHanSansNeo_Bold;
+}
