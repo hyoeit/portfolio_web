@@ -1,0 +1,16 @@
+.noteSection {
+  display: flex;
+}
+
+.noteImg {
+  width: 25rem;
+}
+
+.noteLink {
+  color: black;
+  text-decoration: none;
+}
+
+.reactIcon {
+  width: 30px;
+}

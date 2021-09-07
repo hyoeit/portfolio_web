@@ -1,5 +1,6 @@
 import React from 'react'
 import Intro from '../intro/intro'
+import Portfolio from '../portfolio/portfolio'
 import Profile from '../profile/profile'
 import Skills from '../skills/skills'
 
@@ -8,6 +9,7 @@ const Body = () => {
     <div>
       <Profile />
       <Intro />
+      <Portfolio />
       <Skills />
     </div>
   )
