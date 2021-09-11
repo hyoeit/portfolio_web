@@ -5,11 +5,14 @@
 }
 
 .note {
+  flex: 1 1 50%;
 }
 
 .noteImg {
-  width: 25rem;
+  height: 50rem;
   margin-right: 2rem;
+  margin-left: 10rem;
+  flex: 1 1 50%;
 }
 
 .noteLink {
